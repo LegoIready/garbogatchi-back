@@ -6,6 +6,7 @@ Requirements:
 - python
 - pip
 
+Install:
     pip install pipenv
     pipenv install
 
